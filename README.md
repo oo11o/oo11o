@@ -1,4 +1,4 @@
-- 💽 I’m currently working on - REST Api for aggregator
+- 💽 I’m currently working on - REST Api for movies aggregator
 - 🌱 I’m currently learning Web Application Security
 - 📫 How to reach me https://www.linkedin.com/in/volodymyr-yurchenko-060a89a0/
 
