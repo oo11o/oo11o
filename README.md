@@ -7,11 +7,14 @@
 <img src="https://user-images.githubusercontent.com/63920713/172206493-b442dceb-c244-4240-bd6d-ac294f553376.png" width="60" height="60">
 
 Tools:
+- Express
+- Jest
+- Docker
+- Nginx
+- Ubuntu
+- Git/BitBucket
 - PhpShtorm
 - Trello
-- Docker
-- Jest
-- Git/BitBucket
 - books / stackoverflow / medium
 
 <!--- - 👋 Hi, I’m @oo11o
