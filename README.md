@@ -1,5 +1,3 @@
-- 📫 How to reach me https://www.linkedin.com/in/volodymyr-yurchenko-060a89a0/
-
 
 Tools:
 - Express
