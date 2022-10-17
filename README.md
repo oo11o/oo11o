@@ -5,7 +5,6 @@
 - Nginx
 - Ubuntu
 - Git/BitBucket
-- PhpShtorm
 - Trello
 - books / stackoverflow / medium
 
