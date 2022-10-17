@@ -1,5 +1,5 @@
 - PHP/Node.js
-- Express
+- Node.js (Express, Puppeteer)
 - Jest
 - Docker
 - Nginx
