@@ -1,12 +1,12 @@
-- PHP/Node.js
-- Node.js (Express, Puppeteer)
-- Jest
+- PHP
+- Laravel
+- Postgres
+
+Additional:
+- JS
+- Node.js
 - Docker
 - Nginx
-- Ubuntu
-- Git/BitBucket
-- Trello
-- books / stackoverflow / medium
 
 <!--- - 👋 Hi, I’m @oo11o
 - 👀 I’m interested in ...
