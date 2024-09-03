@@ -1,6 +1,6 @@
 - PHP
 - Laravel
-- Postgres
+- PostgreSQL
 
 Additional:
 - JS
