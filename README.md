@@ -1,9 +1,9 @@
 - PHP
+- TS
 - Laravel
 - PostgreSQL
 
 Additional:
-- JS
 - Node.js
 - Docker
 - Nginx
